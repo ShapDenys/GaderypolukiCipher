@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\bin\Debug\net8.0\GaderypolukiCypher.exe
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\bin\Debug\net8.0\GaderypolukiCypher.deps.json
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\bin\Debug\net8.0\GaderypolukiCypher.runtimeconfig.json
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\bin\Debug\net8.0\GaderypolukiCypher.dll
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\bin\Debug\net8.0\GaderypolukiCypher.pdb
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.AssemblyInfo.cs
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.dll
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\refint\GaderypolukiCypher.dll
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.pdb
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\GaderypolukiCypher.genruntimeconfig.cache
+C:\Users\denis\source\repos\PairedLetterSubstitutionCipher\PairedLetterSubstitutionCipher\obj\Debug\net8.0\ref\GaderypolukiCypher.dll
